@@ -16,6 +16,11 @@ The lab simulates a realistic enterprise environment with:
 - Network type: Internal Network (VM ↔ VM only)
 - IP range: 192.168.100.0/24
 
+## Network Diagram
+![Network Diagram](diagrams/network-topology.png)
+
+---
+
 ### Machines
 **DC01 – Windows Server 2022**
 - IP: 192.168.100.10
